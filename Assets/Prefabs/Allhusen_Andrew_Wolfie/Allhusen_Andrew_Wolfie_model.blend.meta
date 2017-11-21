@@ -1,0 +1,456 @@
+fileFormatVersion: 2
+guid: 5bd6d6da550bde1438e0e30ace4646f1
+timeCreated: 1475886518
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Bone
+    100006: Bone_001
+    100008: Bone_002
+    100010: Bone_003
+    100012: Bone_004
+    100014: Bone_005
+    100016: Bone_006
+    100018: Bone_007
+    100020: Bone_008
+    100022: Bone_009
+    100024: Bone_010
+    100026: Bone_011
+    100028: Bone_012
+    100030: Bone_013
+    100032: Bone_014
+    100034: Bone_015
+    100036: Bone_016
+    100038: Bone_018
+    100040: Circle
+    100042: Cone
+    100044: Cone_002
+    100046: Cone_003
+    100048: Cone_004
+    100050: Cone_005
+    100052: Cone_006
+    100054: Cone_007
+    100056: Cone_008
+    100058: Cone_009
+    100060: Cone_010
+    100062: Cone_011
+    100064: Cone_012
+    100066: Cone_013
+    100068: Cone_014
+    100070: Icosphere
+    100072: person
+    100074: Sphere
+    100076: Sphere_001
+    100078: Text
+    100080: Text_001
+    100082: Text_002
+    100084: Text_003
+    400000: //RootNode
+    400002: Armature
+    400004: Bone
+    400006: Bone_001
+    400008: Bone_002
+    400010: Bone_003
+    400012: Bone_004
+    400014: Bone_005
+    400016: Bone_006
+    400018: Bone_007
+    400020: Bone_008
+    400022: Bone_009
+    400024: Bone_010
+    400026: Bone_011
+    400028: Bone_012
+    400030: Bone_013
+    400032: Bone_014
+    400034: Bone_015
+    400036: Bone_016
+    400038: Bone_018
+    400040: Circle
+    400042: Cone
+    400044: Cone_002
+    400046: Cone_003
+    400048: Cone_004
+    400050: Cone_005
+    400052: Cone_006
+    400054: Cone_007
+    400056: Cone_008
+    400058: Cone_009
+    400060: Cone_010
+    400062: Cone_011
+    400064: Cone_012
+    400066: Cone_013
+    400068: Cone_014
+    400070: Icosphere
+    400072: person
+    400074: Sphere
+    400076: Sphere_001
+    400078: Text
+    400080: Text_001
+    400082: Text_002
+    400084: Text_003
+    2300000: Circle
+    2300002: Cone
+    2300004: Cone_002
+    2300006: Cone_003
+    2300008: Cone_004
+    2300010: Cone_005
+    2300012: Cone_006
+    2300014: Cone_007
+    2300016: Cone_008
+    2300018: Cone_009
+    2300020: Cone_010
+    2300022: Cone_011
+    2300024: Cone_012
+    2300026: Cone_013
+    2300028: Cone_014
+    2300030: Icosphere
+    2300032: Sphere
+    2300034: Sphere_001
+    2300036: Text
+    2300038: Text_001
+    2300040: Text_002
+    2300042: Text_003
+    3300000: Circle
+    3300002: Cone
+    3300004: Cone_002
+    3300006: Cone_003
+    3300008: Cone_004
+    3300010: Cone_005
+    3300012: Cone_006
+    3300014: Cone_007
+    3300016: Cone_008
+    3300018: Cone_009
+    3300020: Cone_010
+    3300022: Cone_011
+    3300024: Cone_012
+    3300026: Cone_013
+    3300028: Cone_014
+    3300030: Icosphere
+    3300032: Sphere
+    3300034: Sphere_001
+    3300036: Text
+    3300038: Text_001
+    3300040: Text_002
+    3300042: Text_003
+    4300000: Icosphere
+    4300002: Text_001
+    4300004: Text
+    4300006: person
+    4300008: Cone_002
+    4300010: Cone_009
+    4300012: Cone_008
+    4300014: Cone_007
+    4300016: Cone_006
+    4300018: Cone_005
+    4300020: Cone
+    4300022: Cone_003
+    4300024: Cone_010
+    4300026: Cone_011
+    4300028: Cone_012
+    4300030: Cone_013
+    4300032: Cone_014
+    4300034: Cone_004
+    4300036: Text_003
+    4300038: Sphere_001
+    4300040: Sphere
+    4300042: Circle
+    4300044: Text_002
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: person
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_007/Bone_008
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_007/Bone_008/Bone_009
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_003
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_003/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_003/Bone_004/Bone_005/Bone_006
+        weight: 1
+      - path: Armature/Bone_010
+        weight: 1
+      - path: Armature/Bone_010/Bone_014
+        weight: 1
+      - path: Armature/Bone_010/Bone_014/Bone_015
+        weight: 1
+      - path: Armature/Bone_011
+        weight: 1
+      - path: Armature/Bone_011/Bone_012
+        weight: 1
+      - path: Armature/Bone_011/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_016
+        weight: 1
+      - path: Armature/Bone_016/Bone_018
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: person
+        weight: 1
+      - path: person/Circle
+        weight: 1
+      - path: person/Cone
+        weight: 1
+      - path: person/Cone_002
+        weight: 1
+      - path: person/Cone_003
+        weight: 1
+      - path: person/Cone_004
+        weight: 1
+      - path: person/Cone_005
+        weight: 1
+      - path: person/Cone_006
+        weight: 1
+      - path: person/Cone_007
+        weight: 1
+      - path: person/Cone_008
+        weight: 1
+      - path: person/Cone_009
+        weight: 1
+      - path: person/Cone_010
+        weight: 1
+      - path: person/Cone_011
+        weight: 1
+      - path: person/Cone_012
+        weight: 1
+      - path: person/Cone_013
+        weight: 1
+      - path: person/Cone_014
+        weight: 1
+      - path: person/Sphere
+        weight: 1
+      - path: person/Sphere_001
+        weight: 1
+      - path: person/Text_002
+        weight: 1
+      - path: person/Text_003
+        weight: 1
+      - path: Text
+        weight: 1
+      - path: Text_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ArmatureAction
+      takeName: ArmatureAction
+      firstFrame: -1
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Bone
+        weight: 1
+      - path: Armature/Bone/Bone_001
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_007
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_007/Bone_008
+        weight: 1
+      - path: Armature/Bone/Bone_001/Bone_007/Bone_008/Bone_009
+        weight: 1
+      - path: Armature/Bone/Bone_002
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_003
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_003/Bone_004
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_003/Bone_004/Bone_005
+        weight: 1
+      - path: Armature/Bone/Bone_002/Bone_003/Bone_004/Bone_005/Bone_006
+        weight: 1
+      - path: Armature/Bone_010
+        weight: 1
+      - path: Armature/Bone_010/Bone_014
+        weight: 1
+      - path: Armature/Bone_010/Bone_014/Bone_015
+        weight: 1
+      - path: Armature/Bone_011
+        weight: 1
+      - path: Armature/Bone_011/Bone_012
+        weight: 1
+      - path: Armature/Bone_011/Bone_012/Bone_013
+        weight: 1
+      - path: Armature/Bone_016
+        weight: 1
+      - path: Armature/Bone_016/Bone_018
+        weight: 1
+      - path: Icosphere
+        weight: 1
+      - path: person
+        weight: 1
+      - path: person/Circle
+        weight: 1
+      - path: person/Cone
+        weight: 1
+      - path: person/Cone_002
+        weight: 1
+      - path: person/Cone_003
+        weight: 1
+      - path: person/Cone_004
+        weight: 1
+      - path: person/Cone_005
+        weight: 1
+      - path: person/Cone_006
+        weight: 1
+      - path: person/Cone_007
+        weight: 1
+      - path: person/Cone_008
+        weight: 1
+      - path: person/Cone_009
+        weight: 1
+      - path: person/Cone_010
+        weight: 1
+      - path: person/Cone_011
+        weight: 1
+      - path: person/Cone_012
+        weight: 1
+      - path: person/Cone_013
+        weight: 1
+      - path: person/Cone_014
+        weight: 1
+      - path: person/Sphere
+        weight: 1
+      - path: person/Sphere_001
+        weight: 1
+      - path: person/Text_002
+        weight: 1
+      - path: person/Text_003
+        weight: 1
+      - path: Text
+        weight: 1
+      - path: Text_001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

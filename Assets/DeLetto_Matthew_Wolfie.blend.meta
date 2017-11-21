@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: e479913c86ed46443876ac3efd1c050f
+timeCreated: 1475948413
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BottomLowMouth
+    100004: Chest
+    100006: Circle
+    100008: Control
+    100010: Cube
+    100012: //RootNode
+    100014: EarSupport_l
+    100016: EarSupport_r
+    100018: Foot_l
+    100020: Foot_r
+    100022: hand_l
+    100024: hand_r
+    100026: Head
+    100028: LegIk_l
+    100030: LegIk_r
+    100032: LowerArm_l
+    100034: LowerArm_r
+    100036: LowerLeg_l
+    100038: LowerLeg_r
+    100040: LowerMouth
+    100042: MidLowerMouth
+    100044: noseSupporrt_l
+    100046: NoseSupport_r
+    100048: Sphere
+    100050: Stomach
+    100052: Stomach_001
+    100054: Stomach_002
+    100056: Stomach_003
+    100058: Stomach_004
+    100060: Stomach_005
+    100062: Stomach_006
+    100064: Stomach_007
+    100066: Stomach_008
+    100068: Stomach_009
+    100070: Stomach_010
+    100072: UpperArm_l
+    100074: UpperArm_l_001
+    100076: UpperArm_l_002
+    100078: UpperArm_l_003
+    100080: UpperArm_l_004
+    100082: UpperArm_r
+    100084: UpperArm_r_001
+    100086: UpperArm_r_002
+    100088: UpperArm_r_003
+    100090: UpperArm_r_004
+    100092: UpperLeg_l
+    100094: UpperLeg_r
+    100096: UpperMouth
+    100098: WrestlerPlane
+    400000: Armature
+    400002: BottomLowMouth
+    400004: Chest
+    400006: Circle
+    400008: Control
+    400010: Cube
+    400012: //RootNode
+    400014: EarSupport_l
+    400016: EarSupport_r
+    400018: Foot_l
+    400020: Foot_r
+    400022: hand_l
+    400024: hand_r
+    400026: Head
+    400028: LegIk_l
+    400030: LegIk_r
+    400032: LowerArm_l
+    400034: LowerArm_r
+    400036: LowerLeg_l
+    400038: LowerLeg_r
+    400040: LowerMouth
+    400042: MidLowerMouth
+    400044: noseSupporrt_l
+    400046: NoseSupport_r
+    400048: Sphere
+    400050: Stomach
+    400052: Stomach_001
+    400054: Stomach_002
+    400056: Stomach_003
+    400058: Stomach_004
+    400060: Stomach_005
+    400062: Stomach_006
+    400064: Stomach_007
+    400066: Stomach_008
+    400068: Stomach_009
+    400070: Stomach_010
+    400072: UpperArm_l
+    400074: UpperArm_l_001
+    400076: UpperArm_l_002
+    400078: UpperArm_l_003
+    400080: UpperArm_l_004
+    400082: UpperArm_r
+    400084: UpperArm_r_001
+    400086: UpperArm_r_002
+    400088: UpperArm_r_003
+    400090: UpperArm_r_004
+    400092: UpperLeg_l
+    400094: UpperLeg_r
+    400096: UpperMouth
+    400098: WrestlerPlane
+    2300000: Circle
+    2300002: Sphere
+    2300004: WrestlerPlane
+    3300000: Circle
+    3300002: Sphere
+    3300004: WrestlerPlane
+    4300000: Circle
+    4300002: Sphere
+    4300004: Cube
+    4300006: WrestlerPlane
+    7400000: Default Take
+    7400002: ArmatureAction
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
